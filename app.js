@@ -1,6 +1,8 @@
 ///   CHAPTER 21-25  STRING METHODS   ///
 
+
 // Q NO. 1  ///////
+
 
 // var firstName = prompt("Enter Your First Name");
 // var lastName = prompt("Enter Your Last Name");
@@ -29,10 +31,12 @@
 // var index = hello.lastIndexOf("l");
 
 // document.write("String: " + hello);
-// document.write(" " " + Last index of 'l': " + hi.lastIndexOf("l"));
+// document.write(" " " + Last index of 'l': " + hello.lastIndexOf("l"));
+
 
 
 // Q NO. 5  /////////
+
 
 // var nationality = "Pakistani";
 // document.write("String: " + nationality);
@@ -47,6 +51,7 @@
 // document.write("Assalam Alaikum " + fullName);
 
 
+
 // Q NO. 7 ///////////
 
 // var city = "Hyderabad";
@@ -57,6 +62,7 @@
 
 // Q NO. 8  ///////////
 
+
 // var para = "Hussain and khanzada are best friends. They play cricket and also cricket very much."
 // var Para1 = para.replace(/and/g, "&");
 
@@ -64,7 +70,9 @@
 // document.write(" " " + <strong> After Replacement : </strong> " + Para1);
 
 
+
 // Q NO. 9  ////////
+
 
 // var string = "345";
 // var number = parseInt(string);
@@ -76,13 +84,16 @@
 
 // Q NO. 10
 
+
 // var userInput = prompt("Enter your any things");
 // document.write("User Input: " + userInput);
 // document.write(" " " + UPPERCASE (): " + userInput.toUpperCase());
 
 
 // Q NO. 11
+
 /*
+
 var userInput = prompt("Enter an Alphabet");
 document.write("User Input: " + userInput);
 
@@ -96,14 +107,12 @@ document.write("<br>Title case: " + capWord.concat(uptPara));
 
 // Q NO. 12
 
+
 // var num = 35.36 ;
 // var str = num.toString();
 // var uptPara = str.replace(".", "")
 // document.write(typeof num + " " + num);
 // document.write("<br>" + typeof uptPara + " " + uptPara);
-
-
-// Q NO. 13
 
 
 // Q NO. 14
@@ -125,6 +134,7 @@ if (flag === false) {
 */
 
 
-// Q NO. 15
+// Q NO. 15 ///////////
 
-var password = prompt("Enter Your Password");
+// // var password = prompt("Enter Your Password");
+// document.write(password)
